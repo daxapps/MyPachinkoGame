@@ -42,6 +42,7 @@
 		E0CDA1561E846C8200B28FE1 /* slotGlowGood.png in Resources */ = {isa = PBXBuildFile; fileRef = E0CDA13A1E846C8200B28FE1 /* slotGlowGood.png */; };
 		E0CDA1571E846C8200B28FE1 /* slotGlowGood@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = E0CDA13B1E846C8200B28FE1 /* slotGlowGood@2x.png */; };
 		E0CDA1581E846C8200B28FE1 /* spark.png in Resources */ = {isa = PBXBuildFile; fileRef = E0CDA13C1E846C8200B28FE1 /* spark.png */; };
+		E0CDA15A1E84839300B28FE1 /* Helper.swift in Sources */ = {isa = PBXBuildFile; fileRef = E0CDA1591E84839300B28FE1 /* Helper.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -82,6 +83,7 @@
 		E0CDA13A1E846C8200B28FE1 /* slotGlowGood.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = slotGlowGood.png; sourceTree = "<group>"; };
 		E0CDA13B1E846C8200B28FE1 /* slotGlowGood@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "slotGlowGood@2x.png"; sourceTree = "<group>"; };
 		E0CDA13C1E846C8200B28FE1 /* spark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = spark.png; sourceTree = "<group>"; };
+		E0CDA1591E84839300B28FE1 /* Helper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Helper.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +119,7 @@
 				E0CDA1081E8468ED00B28FE1 /* AppDelegate.swift */,
 				E0CDA10A1E8468ED00B28FE1 /* GameScene.sks */,
 				E0CDA10E1E8468ED00B28FE1 /* GameScene.swift */,
+				E0CDA1591E84839300B28FE1 /* Helper.swift */,
 				E0CDA1101E8468ED00B28FE1 /* GameViewController.swift */,
 				E0CDA1121E8468ED00B28FE1 /* Main.storyboard */,
 				E0CDA1201E846C8200B28FE1 /* Content */,
@@ -267,6 +270,7 @@
 				E0CDA10F1E8468ED00B28FE1 /* GameScene.swift in Sources */,
 				E0CDA1111E8468ED00B28FE1 /* GameViewController.swift in Sources */,
 				E0CDA1091E8468ED00B28FE1 /* AppDelegate.swift in Sources */,
+				E0CDA15A1E84839300B28FE1 /* Helper.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
